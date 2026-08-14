@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 salam menim adim nicatdi
+=======
+salam menim adim deniz deyil
+>>>>>>> br1
 14 yashim var
 
